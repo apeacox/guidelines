@@ -1,7 +1,7 @@
 ---
 title: Come utilizzare il Blog - Cantiere Creativo Guidelines
 ---
-# Blog
+# Blog e pubblicazioni
 
 Il blog è il principale mezzo che ci permette di condividere al mondo esterno, in totale trasparenza, i nostri progressi sulle seguenti tematiche:
 
